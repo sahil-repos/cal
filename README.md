@@ -212,7 +212,7 @@ npm test
 2. It is easier to maintain.
 
 #### Front-end
-The front end for this application can be found [Link text Here]( https://github.com/sahil-repos/cal-frontEnd)
+The front end for this application can be found [here]( https://github.com/sahil-repos/cal-frontEnd)
 
 
 
