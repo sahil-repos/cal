@@ -211,6 +211,9 @@ npm test
 1. It is modular and less clustered around app.js.
 2. It is easier to maintain.
 
+#### Front-end
+The front end for this application can be found [Link text Here]( https://github.com/sahil-repos/cal-frontEnd)
+
 
 
 
